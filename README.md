@@ -1,12 +1,12 @@
-# CompTIA Security+ (SY0-701) — Cornell Notes
+# 🛡️ CompTIA Security+ (SY0-701)
 
 
 Study notes
-Each section folder
+Each section folder 
 contains Cornell-style notes (Cue/Question + Notes table, plus a Summary).
 
 
-## Exam Domains
+## 🔎 Exam Domains
 
 
 | Domain | Percentage of examination |
@@ -19,9 +19,24 @@ contains Cornell-style notes (Cue/Question + Notes table, plus a Summary).
 | **Total** | **100 %** |
 
 
-## Sections
+## 🎨 Color System
+| Icon | Color   | Description |
+| ---- | ------- | ----------- |
+| 🟢  | Green   | Keywords    |
+| 🔴  | Red     | Questions   |
+| 🟠  | Orange  | Thoughts    |
+
+
+## 📑 Sections
 
 
 | # | Section | Domain |
 | - | ------- | ------ |
 | 1 | [Introduction](01_Introduction/README.md) | — |
+| 2 | [Fundamentals of Security](02_Fundamentals_of_Security/README.md) | 1 |
+
+
+## 📚 References
+
+
+- 📹 [CompTIA SY0-701 Security+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) by Professor Messer
