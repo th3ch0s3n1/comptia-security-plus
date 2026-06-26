@@ -55,7 +55,6 @@ contains Cornell-style notes (Cue/Question + Notes table, plus a Summary).
 | 18 | [Risk Analysis & Assessments](18_Risk_Analysis_and_Assessments/README.md) | 5.0 |
 | 19 | [Governance, Policies, & Compliance](19_Governance_Policies_and_Compliance/README.md) | 5.0 |
 | 20 | [Resiliency & Disaster Recovery](20_Resiliency_and_Disaster_Recovery/README.md) | 3.0 / 5.0 |
-| 21 | [Course Conclusion & Exam Prep](21_Course_Conclusion_and_Exam_Prep/README.md) | — |
 
 
 ## 📚 References
