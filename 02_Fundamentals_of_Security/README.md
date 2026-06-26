@@ -1,10 +1,10 @@
-# Section 2: Fundamentals of Security
+# 🛡️ Section 2: Fundamentals of Security
 
 
 > Cornell Notes — CompTIA Security+ (SY0-701) | Maps to Domain 1.0 (General Security Concepts)
 
 
-## Cue / Key Questions & Notes
+## ❓ Cue / Key Questions & Notes
 
 | Question / Keyword | Answer |
 | ------------------ | ------ |
@@ -46,7 +46,7 @@
 | 🔴 Vulnerability + no threat = ? | No risk. |
 | 🔴 What is a gap analysis? | Comparing current security posture to the desired target state. |
 
-## Summary
+## 📝 Summary
 
 Security rests on the **CIA Triad** (Confidentiality, Integrity, Availability), extended by **Non-repudiation** and **Authentication** (CIANA). The **AAA** framework governs identity (Authenticate, Authorize, Account) using up to five factors. Risk arises when a **threat** exploits a **vulnerability**, and is managed through **security controls** organized by category (Technical, Managerial, Operational, Physical) and type (Preventive, Deterrent, Detective, Corrective, Compensating, Directive). **Zero Trust** removes implicit trust, enforcing verification via Control and Data Planes.
 
