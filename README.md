@@ -60,4 +60,5 @@ contains Cornell-style notes (Cue/Question + Notes table, plus a Summary).
 ## 📚 References
 
 
-- 📹 [CompTIA SY0-701 Security+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) by Professor Messer
+- 📹 [CompTIA SY0-701 Security+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) by Professor Messer (FREE)
+- 📹 [CompTIA Security+ (SY0-701) Complete Course & Practice Exam](https://www.udemy.com/course/securityplus) by Dion Training (PAID)
